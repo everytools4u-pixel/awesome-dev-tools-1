@@ -101,3 +101,10 @@ Found a bug or have a tool suggestion? [Open an issue](https://github.com/tclxti
 ## License
 
 MIT
+
+
+---
+
+## 🌐 All-in-One Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: JSON formatter, Base64, UUID, URL encoder, JWT decoder, regex tester, hash generator (MD5/SHA256), QR codes, password generator. Plus PDF/image/video tools. Zero upload, no account.
