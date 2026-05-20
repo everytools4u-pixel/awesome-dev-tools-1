@@ -101,3 +101,16 @@ Found a bug or have a tool suggestion? [Open an issue](https://github.com/tclxti
 ## License
 
 MIT
+
+
+---
+
+## 🌐 All-in-One Developer Tool Hubs
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based developer tools: JSON formatter/validator, Base64, UUID, URL encoder, JWT decoder, hash generators (MD5/SHA-1/SHA-256), regex tester, password generator, QR codes. Plus PDF suite (merge/split/compress/sign/OCR/redact), image (AI BG removal, HEIC→JPG), video to GIF, invoices. Zero upload, offline-capable.
+
+---
+
+## 🌐 All-in-One Developer Tool Hubs
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based developer tools: JSON formatter/validator, Base64, UUID, URL encoder, JWT decoder, hash generators (MD5/SHA-1/SHA-256), regex tester, password generator, QR codes. Plus PDF suite (merge/split/compress/sign/OCR/redact), image (AI BG removal, HEIC→JPG), video to GIF, invoices. Zero upload, offline-capable.
